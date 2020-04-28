@@ -1,0 +1,244 @@
+---
+title: "Spanish Language learning"
+author: "David Premier (wandering fakir)"
+date: "28/04/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Spanish Language Instructions 
+
+#### **VERB**
+
+*A verb is a **doing** word which describes what someone or something does, What someone or something is, or what happens to them, for eg, be, sing, Live* 
+
+In orders and instructions telling someone **TO DO** something, the pronoun joins to the end of the verb to form one word. 
+
++ Ayuda*me*        Help me. 
++ Acompáńa*nos*    Come with us. 
+
+
+>**TIP** 
+Dont Forget to use personal *'a'* before indefinite pronouns reffering to people when they are the object of the verb. 
+
++ **?Viste *a* alguien?**   Did you see anybody?
++ **No Vi *a* nadie.**      I did not see anybody
+
+>Like other adjectives, Spanish indefinite adjectives such as **OTRO** and **TODO**, must agree with what they describe. They go befoer the Noun to which they relate.
+
+> **Por** is often combined with other spanish prepositions and words, usually to show moverment 
+
++ **saltó *por encima* de la mesa** she jumped over the table 
++ **Nadamos *por debao del* puente** we swam under the bridge 
++ **Pasaron *por delante de* correos** They went past the post office 
+
+
+
+##### **NOUNS**
+
+*A noun is a **'naming'** word for a living being, thing or idea. eg... Woman, desk, happeness, Andrew*
+
+In Spanish, all nouns are either **masculine** or **feminine**. This is called their gender and even words for things have a gender.
+
+Whenever you are using a noun, you need to know whether it is masculine or feminine as this effects the form of other words used with it such as: 
+
++ adjectives that describe it 
++ articles (such as el or la) that go before it 
++ el or un before a noun usually tells you its masculine 
++ La or Una before a noun tells me its feminine 
+
+| masculine : feminine |
+|:---------:|:--------:|
+|   el      :   la     | definidos
+|   un      :   una    | indefinidos
+
+
+#### **GENDER**
+
+####### *nouns referring to people*
+
+Most nouns referring to men or boys are masculine 
+
++ **el hombre**  *the man* 
++ **el ray**     *the king*
+
+Most nouns referring to girls or women are feminine 
+
++ **la mujer** *the woman*
++ **el reina** *the queen*
+
+When the same word is used to refer to either men/boys or women/girls, its gender usually changes depending on the sex of the person it refers to. 
+
++ **el estudiante** *the (male) student* 
++ **la estudiante** *the (female) student*
++ **el belga** *the belgian (man)*
++ **la belga** *the belgian (woman)*
+
+Some of the words for people have only one possible gender, whether they refer to a male or female. 
+
++ **la persona** *the (male or female) person*
++ **la victima** *the (male or female) victim*
+
+In english, we can sometimes make a word masculine or feminine by changing the ending. For example, English*man* and English*woman* or Prince and Prin*cess*. In Spanish, very often the ending of a noun changes depending on whether it refers to a man or woman. 
+
++ **el camarero** *the waiter*
++ **la camarera** *the waiteress*
++ **el empleado** *the employee(male)*
++ **la empleada** *the employee (female)*
++ **el inglés**   *the englishman*
++ **la inglésa**  *the englsihwoman*
+
+> The noun ending with **O** is usually *masculine*, and a noun ending with **a** is usually *feminine*
+
+####### *nouns referring to animals*
+
+In english we can choose between words like bull and cow, depending on the sex of the animal. In Spanish too there are sometimes seperate words for male and female animals.
+
++ **el toro** *the bull*
++ **la vaca** *the cow*
+
+Sometimes the same word with different endings is used for male and female animals. 
+
++ **el perro** *the(male) dog*
++ **la perra** *the (female) dog or bitch*
++ **el gato** *the (male) cat*
++ **la gata** *the (female) cat*
+
+> When u do not care what the sex of the animal is, you can usually use the masculine form as a general word 
+
+Words for another animal dont change according to the sex of the animal. Just learn the spanish word with its gender, which is always the same. 
+
++ **el sapo** *the toad*
++ **el hamster** *the hamster*
++ **la cobaya** *the guinea pig*
++ **la tortuga** *the tortoise*
+
+####### *nouns referring to things*
+
+In english, we call all things - for example, table, car, book, apple - *'it'*. In Spanish, however, things are either *masculine* or *feminine*. As things don't divide into sexes the way humans and animals do. There are no physical cue to help with the gender in spanish. Try to learn the gender as you learn the word. 
+
+The following ending is usually found on Masculine Nouns. 
+
+Masculine ending **O** 
+
+Examples: 
+
++ **el Libr*o*** *the book*
++ **el periódic*o*** *the newspaper*
+
+But:
+
++ **la mano** *the hand*
++ **la foto** *the photo*
++ **la moto** *the motorbike*
++ **la radio** *the radio* ( although in parts of latin America it is ***el radio***)
+
+The following types of word are also *masculine*
+
++ names of the week and the months of the year 
+    + **Te Veré el lunes**. *i'll see you on Monday*
+    
+Feminine ending **a**
+
+Examples:
+
+
++ **la casa** *the house*
++ **la cara** *the face*
+
+But:
+
++ **el dia** *the day*
++ **el mapa** *the map*
++ **el planeta** *the planet*
++ **el tranvia** *the tram* 
+
+
+and many other words ending in -ma
+
+
++ **el problema** *the problem*
++ **el programa** *the program*
++ **el systema** *the system*
++ **el clima** *the climate*
+
+Feminine ending ***ción***
+
++ **la lección** *the lesson*
+
+Feminine ending ***sión***
+
++ **la estasión** *the station*
++ **la expresión *the expression*
+
+Feminine ending ***dad***
+
++ **la cicudad** *the city*
+
+Feminine ending ***tad***
+
++ **la libertad** *freedom*
+
+Feminine ending ***tud***
+
++ **la multitud** *the crowd*
+
+
+Some words have different meaning depending on whether they are masculine or feminine 
+
+
+| Masculine       : Meaning                    | Feminine                   : Meaning                    |
+|:---------------:|:--------------------------:|:--------------------------:|:--------------------------:|
+| el capital      : the capital(money)         | la capital                 : the capital (city)         |
+| el cometa       : the comet                  | la cometa                  : the kite                   |
+| el cura         : the priest                 | la cura                    : the cure                   |
+
+
+##### Masculine and Feminine words 
+
+
+Like english, Spanish sometimes has very different words for males and females  
+
++ **el hombre** *the man*
++ **la Mujer**  *the woman*
++ **el rey** *the king*
++ **la reina** *the queen*
+
+Many spanish words can be used to talk about men and women by changing the ending. For example, if the word for the male ends in **O** you can always make it feminie by changing **O** to **a** 
+
++ **el amigo** *the (male) friend*
++ **la amiga** *the (female) friend*
++ **el hermano** *the brother*
++ **la hermana** *the sister*
++ **el empleado** *the (male) employee*
++ **la empleada** *the (female) employee*
++ **el viudo** *the widower*
++ **la viuda** *the widow*
+
+
+Note that there are some words referring to people end in ***a*** in the masculine as well as feminine. Only the artice el, la, Un or una can tell what gender is the word 
+
++ **el dentista** *the male dentist*
++ **la dentista** *the female dentist*
++ **el deportista** *the sportsman*
++ **el deposrtista** *the sportswoman*
+
+Many masculine nouns ending with a constant (any letter other than a vowel) become feminine by adding an ***a***
+
++ **el español** *the spanish man*
++ **la española** *the spanish woman*
++ **el profesor** *the professor*
++ **la profesora** *the professor (female)*
+
+#### *Key Points*
+
++ the ending of a spanish word often helps you to work out its gender: for instance, if the word ends in **O**, it is probably masculine. If it ends with a **a** it is probably feminine. 
++ ción, sión, dad, tad, tud are feminine words 
++ days of the week and months of the year are masculine so are languages, mountains and seas 
++ you can change the ending from ***o*** to ***a*** to make a masculine noun to feminine`
+
+
+
+
