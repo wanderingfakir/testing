@@ -2,15 +2,17 @@
 title: "Spanish Language learning"
 author: "David Premier (wandering fakir)"
 date: "28/04/2020"
-output: html_document
+output:
+  html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-### Spanish Language Instructions 
+### Spanish GRAMMAR 
 
-#### **VERB**
+###### **VERB**
 
 *A verb is a **doing** word which describes what someone or something does, What someone or something is, or what happens to them, for eg, be, sing, Live* 
 
@@ -20,13 +22,12 @@ In orders and instructions telling someone **TO DO** something, the pronoun join
 + Acompáńa*nos*    Come with us. 
 
 
->**TIP** 
-Dont Forget to use personal *'a'* before indefinite pronouns reffering to people when they are the object of the verb. 
+> Dont Forget to use personal *'a'* before indefinite pronouns reffering to people when they are the object of the verb. 
 
 + **?Viste *a* alguien?**   Did you see anybody?
 + **No Vi *a* nadie.**      I did not see anybody
 
->Like other adjectives, Spanish indefinite adjectives such as **OTRO** and **TODO**, must agree with what they describe. They go befoer the Noun to which they relate.
+> Like other adjectives, Spanish indefinite adjectives such as **OTRO** and **TODO**, must agree with what they describe. They go befoer the Noun to which they relate.
 
 > **Por** is often combined with other spanish prepositions and words, usually to show moverment 
 
@@ -36,7 +37,7 @@ Dont Forget to use personal *'a'* before indefinite pronouns reffering to people
 
 
 
-##### **NOUNS**
+## **NOUNS**
 
 *A noun is a **'naming'** word for a living being, thing or idea. eg... Woman, desk, happeness, Andrew*
 
@@ -55,7 +56,7 @@ Whenever you are using a noun, you need to know whether it is masculine or femin
 |   un      :   una    | indefinidos
 
 
-#### **GENDER**
+##### **GENDER**
 
 ####### *nouns referring to people*
 
@@ -67,7 +68,7 @@ Most nouns referring to men or boys are masculine
 Most nouns referring to girls or women are feminine 
 
 + **la mujer** *the woman*
-+ **el reina** *the queen*
++ **la reina** *the queen*
 
 When the same word is used to refer to either men/boys or women/girls, its gender usually changes depending on the sex of the person it refers to. 
 
@@ -223,7 +224,7 @@ Note that there are some words referring to people end in ***a*** in the masculi
 + **el dentista** *the male dentist*
 + **la dentista** *the female dentist*
 + **el deportista** *the sportsman*
-+ **el deposrtista** *the sportswoman*
++ **la deportista** *the sportswoman*
 
 Many masculine nouns ending with a constant (any letter other than a vowel) become feminine by adding an ***a***
 
@@ -235,9 +236,152 @@ Many masculine nouns ending with a constant (any letter other than a vowel) beco
 #### *Key Points*
 
 + the ending of a spanish word often helps you to work out its gender: for instance, if the word ends in **O**, it is probably masculine. If it ends with a **a** it is probably feminine. 
-+ ción, sión, dad, tad, tud are feminine words 
-+ days of the week and months of the year are masculine so are languages, mountains and seas 
-+ you can change the ending from ***o*** to ***a*** to make a masculine noun to feminine`
++ **ción, sión, dad, tad, tud** are feminine words.
++ days of the week and months of the year are masculine so are languages, mountains and seas. 
++ you can change the ending from ***o*** to ***a*** to make a masculine noun to feminine.
+
+
+#### FORMING PLURALS
+
+Plurals ending in ***s*** and ***es***
+
+In english we usually make nouns plural by adding an ***s*** to the end. (garden - garden*s*); (house - hous*es*), although we do have some nouns which are irregular and do not follow this pattern (mouse - *mice*); (child - *children*)
+
+To form the plural in spanish, add ***s*** to most nouns ending in a vowel ***(a,e,i,o,u)*** which  does not have an accent. 
+
+
++ **el libro** *the book*
++ **los Libros** *the books*
++ **el homre** *the man*
++ **los hombres** *the men*
++ **la profesora** *the (female) professor*
++ **las profesoras** *the (female) professors*
+
+
+To form plural to singular nouns ending with a constant *(any letter than a vovel)* add ***es***
+
+
++ **el profesor** *the (male) professor*
++ **los profesor*es*** *the (male) professors*
++ **la ciudad ** *the city*
++ **las ciudad*es*** *the cities*
+
+
+The words ending in ***S*** which have an unstressed final vovel do not change in plural 
+
++ **el paraguas** *the umbrella*
++ **los paragua*s*** *the umbrellas*
++ **el lunes** *monday*
++ **los lunes** *mondays*
+
+Most singlular nouns ending in an accented vovel add ***s*** in the plural, but those ending in the accented i (í) and u (ú) usually have two possibile plurals with ***es*** and ***s***
+
++ **el café** *the cafe*
++ **los café*s***  *the cafes*
++ **el sofá** *the sofa*
++ **los sofá*s*** *the sofas*
++ **el jabalí** *the boar*
++ **los Jabalí*es*** or **los Jabalí*s*** *the boars*
+
+##### Spelling changes with Plural ending in ***es***
+
+Singular nouns which end in an accented vowel and either ***n*** or ***s*** drop the accent in the plural 
+
++ **la canción** *the song*
++ **las canciones** *the songs*
++ **el autobús** *the bus*
++ **los autobuses** *the buses*
+
+Singular nouns of more than one syllable which end in ***en*** and dont already have an accent, add one in the plural
+
++ **el examen** *the exam*
++ **los ex*á*menes** *the exams*
++ **el joven** *the youth*
++ **los jóvenes** *young people*
+
+Singular nouns ending in ***Z*** change to ***c*** in the plural
+
++ **la luz** *the light*
++ **las luces** *the lights*
++ **la vez** *the times*
++ **las veces** *the times*
+
+##### Plural versus singular 
+
+Few words relating to the clothing that are plural in english can be singular in spanish 
+
++ **una braga** *a pair of nickers*
++ **un slip** *a pair of underpants*
++ **un pantalón** *a pair of trousers*
+
+A few common words behave differently in spanish from the way they behave in english 
+
++ **un mueble** *a piece of furniture*
++ **unos muebles** *some furniture*
++ **una noticia** *a piece of news*
++ **unas Noticias** *some news*
++ **un consejo** *a piece of advice*
++ **unos consejos** *some advice*
+
+#### Key Pointers to remember. 
+
++ **To form the plural in spanish, add *s* to most nouns ending in a vowel *(a,e,i,o,u)* which  does not have an accent.**
++ **To form plural to singular nouns ending with a constant *(any letter than a vovel)* add *es.***
++ **The words ending in *S* which have an unstressed final vovel do not change in plural.**
++ **Most singlular nouns ending in an accented vovel add *s* in the plural, but those ending in the accented i (í) and u (ú) usually have two possibile plurals with *es* and *s***.
++ **Singular nouns which end in an accented vowel and either *n* or *s* drop the accent in the plural**.
++ **Singular nouns of more than one syllable which end in *en* and dont already have an accent, add one in the plural**.
++ **Singular nouns ending in *Z* change to *c* in the plural**.
+
+
+Take a [Noun Test](https://www.e-spanyol.com/spanish-tests/test-01-noun-gender-el-la.php)
+
+Take a [singular/plural test](https://spanish.tolearnfree.com/free-spanish-lessons/free-spanish-exercise-12379.php) 
+
+
+
+## **ARTICULOS**
+
+#### **Different Types of articles** 
+
+There are two types of articles
+the definite article: *the* in English. This is used to identify a particular thing or person. 
+
++ I'am going to ***the*** supermarket. 
++ That's ***the*** woman i was talking to.
+
+The indefinite article: a or an in English, whose plural is some or any (or no word at all). 
+This is used to refer to something unspecific, or that you do not really know about.
+
++ Is there ***a*** supermarket near here?
++ i need ***a*** day off 
+
+#### The Definite Article 
+
+**el**, **la**, **los** & **las**
+
+##### the basic rules 
+
+In english, there is only **one** definite article: *the*. In Spanish, you have to choose between four definite articles ***el, la, los, las***. Which one you would choose depends on the noun which follows. 
+
+In Spanish all nouns (including words for things) are either masculine or feminine - this is called their *gender*. And just as in English, they can also be singular or plural. You must bear in mind when deciding which spanish word to use for ***the***
+
+
+| masculine : feminine |
+|:---------:|:--------:|
+|   el      :   la     | singular 
+|   los     :   las    | Plural
+
+
+*el* is used for *masculine singular* 
+
++ **el niño** *the boy*
++ **el periodico** *the newspaper*
+
+
+
+
+
 
 
 
